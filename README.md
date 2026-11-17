@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alex-mucheke-muniu/"><img src="https://img.shields.io/badge/HIRE%20ME%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire me on LinkedIn"/></a>
-  <a href="https://github.com/Alex-Mucheke?tab=repositories"><img src="https://img.shields.io/badge/SEE%20MY%20WORK-6D5DFB?style=for-the-badge&logo=github&logoColor=white" alt="See my work"/></a>
+  <a href="https://wa.me/254742494689?text=Hi%20Alex%2C%20I%27d%20like%20to%20discuss%20a%20project"><img src="https://img.shields.io/badge/WHATSAPP%20ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Alex"/></a>
+  <a href="mailto:alexmucheke49@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alex"/></a>
+  <a href="https://www.linkedin.com/in/alex-mucheke-muniu/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-22C55E?style=for-the-badge" alt="Available for work"/>
 </p>
 
@@ -203,7 +204,15 @@ I'm open to **freelance projects, full-time roles and technical collaborations**
 
 Send me a short message about what you want to build. I'll reply with how I'd approach it.
 
+| Reach me | |
+| :-- | :-- |
+| 💬 **WhatsApp** | [+254 742 494 689](https://wa.me/254742494689?text=Hi%20Alex%2C%20I%27d%20like%20to%20discuss%20a%20project) |
+| 📞 **Call** | [0742 494 689](tel:+254742494689) |
+| ✉️ **Email** | [alexmucheke49@gmail.com](mailto:alexmucheke49@gmail.com) |
+| 💼 **LinkedIn** | [alex-mucheke-muniu](https://www.linkedin.com/in/alex-mucheke-muniu/) |
+
 <p align="center">
+  <a href="https://wa.me/254742494689?text=Hi%20Alex%2C%20I%27d%20like%20to%20discuss%20a%20project"><img src="https://img.shields.io/badge/START%20A%20CHAT%20ON%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Start a chat on WhatsApp"/></a>
   <a href="https://www.linkedin.com/in/alex-mucheke-muniu/"><img src="https://img.shields.io/badge/MESSAGE%20ME%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn"/></a>
   <a href="https://github.com/Alex-Mucheke?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20MY%20REPOSITORIES-6D5DFB?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories"/></a>
 </p>
